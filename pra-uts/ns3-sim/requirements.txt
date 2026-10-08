@@ -1,0 +1,7 @@
+# Dependensi Python untuk Phase 2-5 (ML / RL / Evaluasi)
+# Install:  pip install -r requirements.txt
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.6
+joblib>=1.2
